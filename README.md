@@ -1,6 +1,6 @@
 # JavaScript Garden
 
-This week we'll be diving into the world of gardening while learning Javagarden basics. You'll be simulating tasks related to plant care and maintenance using JavaScript variables, conditionals, and loops.
+This week we'll be diving into the world of gardening while learning JavaScript basics. You'll be simulating tasks related to plant care and maintenance using JavaScript variables, conditionals, and loops.
 
 ## Assignment
 
